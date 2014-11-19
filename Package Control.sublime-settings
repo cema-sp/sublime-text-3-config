@@ -1,9 +1,17 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
+		"ColorPicker",
+		"Emmet",
+		"ERB Snippets",
 		"FileDiffs",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Retro Computers Color Schemes",
+		"SCSS",
 		"SFTP",
+		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeCodeIntel"
 	]
