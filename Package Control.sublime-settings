@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"Better CoffeeScript",
 		"ColorPicker",
 		"Emmet",
