@@ -1,4 +1,9 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"ApplySyntax",
@@ -10,6 +15,7 @@
 		"FileDiffs",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Package Control",
 		"Retro Computers Color Schemes",
 		"RSpec",
 		"SCSS",
