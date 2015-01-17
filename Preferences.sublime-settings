@@ -4,8 +4,8 @@
 	"hide_minimap": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"rulers":
 	[
