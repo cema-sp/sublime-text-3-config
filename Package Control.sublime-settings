@@ -1,4 +1,8 @@
 {
+  "auto_upgrade_ignore":
+  [
+    "SublimeCodeIntel"
+  ],
 	"in_process_packages":
 	[
 	],
