@@ -1,27 +1,40 @@
 {
+	"auto_upgrade_ignore":
+	[
+		"SublimeCodeIntel"
+	],
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
+		"ApacheConf.tmLanguage",
 		"ApplySyntax",
+		"Babel",
 		"Better CoffeeScript",
 		"C++ Snippets",
+		"CMake",
 		"ColorPicker",
 		"Cucumber",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"ERB Snippets",
 		"FileDiffs",
+		"JSX",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"nginx",
 		"Package Control",
 		"Retro Computers Color Schemes",
 		"RSpec",
 		"Ruby Slim",
+		"Sass",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
 		"SideBarGit",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter-jsxhint"
 	]
 }

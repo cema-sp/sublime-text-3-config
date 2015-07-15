@@ -1,16 +1,18 @@
 {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
 	"font_size": 9.5,
 	"hide_minimap": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"rulers":
 	[
 		78
 	],
+	"show_encoding": true,
 	"show_line_endings": false,
 	"show_minimap": false,
 	"tab_size": 2,
