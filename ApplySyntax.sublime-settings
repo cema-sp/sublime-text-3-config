@@ -10,5 +10,9 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            "syntax": "Sass/Sass",
+            "extensions": ["sass"]
+        }
     ]
 }

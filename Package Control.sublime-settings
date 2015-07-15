@@ -1,35 +1,39 @@
 {
-  "auto_upgrade_ignore":
-  [
-    "SublimeCodeIntel"
-  ],
+	"auto_upgrade_ignore":
+	[
+		"SublimeCodeIntel"
+	],
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
-	],
 	"installed_packages":
 	[
+		"Advanced CSV",
+		"ApacheConf.tmLanguage",
 		"ApplySyntax",
+		"Babel",
 		"Better CoffeeScript",
+		"CMake",
 		"ColorPicker",
 		"Cucumber",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"ERB Snippets",
 		"FileDiffs",
+		"JSX",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"nginx",
 		"Package Control",
 		"Retro Computers Color Schemes",
 		"RSpec",
+		"Ruby Slim",
+		"Sass",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
 		"SideBarGit",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter-jsxhint"
 	]
 }
