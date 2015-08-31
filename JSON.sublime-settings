@@ -2,7 +2,7 @@
 	"extensions":
 	[
 		".jscsrc",
-		".jshintrc",
-		".csslintrc"
+		".csslintrc",
+		".jshintrc"
 	]
 }
