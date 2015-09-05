@@ -8,4 +8,5 @@
 		"podspec",
 		"thor",
 		"simplecov"
+	]
 }

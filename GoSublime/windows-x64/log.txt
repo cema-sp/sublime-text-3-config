@@ -25356,3 +25356,19 @@ created by main.(*Broker).Loop
 	C:/Users/�������/AppData/Roaming/Sublime Text 3/Packages/GoSublime/src/gosubli.me/margo/broker.go:209 +0x2b6
 
 
+
+** 2015-09-05 18:39:08.050596 **:
+MarGo: MarGo build failed
+cmd: `['c:\\Go\\bin\\go.exe', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: \usr\local\go`
+exception: `None`
+--------------------------------
+
+** 2015-09-05 18:46:57.103567 **:
+MarGo: MarGo build failed
+cmd: `['c:\\Go\\bin\\go.exe', 'build', '-v', '-x', '-o', 'gosublime.margo_r14.12.06-1_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: `go: cannot find GOROOT directory: \usr\local\go`
+exception: `None`
+--------------------------------
