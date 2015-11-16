@@ -3,6 +3,7 @@
 	[
 		"SublimeCodeIntel"
 	],
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -14,15 +15,18 @@
 		"Babel",
 		"Better CoffeeScript",
 		"C++ Snippets",
+		"C++11",
 		"CMake",
 		"ColorPicker",
 		"Cucumber",
+		"Cucumber Step Finder",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"ERB Snippets",
 		"FileDiffs",
 		"GoSublime",
 		"JSX",
+		"Liquid",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"nginx",
@@ -36,6 +40,7 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeCodeIntel",
-		"SublimeLinter-jsxhint"
+		"SublimeLinter-jsxhint",
+		"Vintageous"
 	]
 }
