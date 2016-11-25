@@ -13,6 +13,10 @@
         {
             "syntax": "Sass/Sass",
             "extensions": ["sass"]
+        },
+        {
+            "syntax": "Babel/JavaScript",
+            "extensions": ["jsx"]
         }
     ]
 }

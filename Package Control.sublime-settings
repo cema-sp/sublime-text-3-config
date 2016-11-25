@@ -10,6 +10,7 @@
 	"installed_packages":
 	[
 		"Advanced CSV",
+		"Alignment",
 		"ApacheConf.tmLanguage",
 		"ApplySyntax",
 		"Babel",
@@ -21,10 +22,16 @@
 		"Cucumber",
 		"Cucumber Step Finder",
 		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Elm Language Support",
 		"Emmet",
 		"ERB Snippets",
+		"Ethereum",
 		"FileDiffs",
+		"Flow Built-In Type Completion",
 		"GoSublime",
+		"Handlebars",
+		"Jest",
 		"JSX",
 		"Liquid",
 		"Markdown Preview",
@@ -40,7 +47,21 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeCodeIntel",
-		"SublimeLinter-jsxhint",
-		"Vintageous"
+		"SublimeERB",
+		"SublimeHaskell",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-rubocop",
+		"Theme - amCoder",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"VimL",
+		"Vintageous",
+		"yardgen"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeHaskell/SublimeHaskell/tree/hsdev"
 	]
 }
